@@ -1,0 +1,560 @@
+[2023-09-23T21:56:36.187-0400] {processor.py:157} INFO - Started process (PID=1108) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:56:36.188-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T21:56:36.190-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:56:36.189-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:56:36.205-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:56:36.220-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:56:36.219-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:56:36.234-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:56:36.234-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T21:56:36.258-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T21:57:21.263-0400] {processor.py:157} INFO - Started process (PID=1718) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:57:21.266-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T21:57:21.267-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:57:21.267-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:57:21.274-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:57:21.296-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:57:21.296-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:57:21.309-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:57:21.309-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T21:57:21.331-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2023-09-23T21:58:10.189-0400] {processor.py:157} INFO - Started process (PID=1903) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:58:10.199-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T21:58:10.200-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:10.200-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:58:10.207-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:58:10.221-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:10.220-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:58:10.229-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:10.229-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T21:58:10.258-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2023-09-23T21:58:59.877-0400] {processor.py:157} INFO - Started process (PID=2159) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:58:59.880-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T21:58:59.881-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:59.881-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:58:59.888-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:58:59.905-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:59.905-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:58:59.917-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:59.917-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T21:58:59.948-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T21:59:53.987-0400] {processor.py:157} INFO - Started process (PID=2436) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:59:53.989-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T21:59:53.989-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:59:53.989-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:59:53.996-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T21:59:54.017-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:59:54.017-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:59:54.029-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:59:54.029-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T21:59:54.062-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2023-09-23T22:00:46.876-0400] {processor.py:157} INFO - Started process (PID=3245) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:00:46.882-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:00:46.886-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:46.884-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:00:46.893-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:00:46.911-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:46.911-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:00:46.924-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:46.924-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:00:46.951-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.086 seconds
+[2023-09-23T22:01:39.857-0400] {processor.py:157} INFO - Started process (PID=3570) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:01:39.861-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:01:39.862-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:39.861-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:01:39.871-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:01:39.893-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:39.893-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:01:39.906-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:39.906-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:01:39.937-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.084 seconds
+[2023-09-23T22:02:31.559-0400] {processor.py:157} INFO - Started process (PID=3826) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:02:31.562-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:02:31.564-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:02:31.563-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:02:31.570-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:02:31.587-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:02:31.587-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:02:31.599-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:02:31.598-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:02:31.624-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2023-09-23T22:03:25.842-0400] {processor.py:157} INFO - Started process (PID=4095) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:03:25.844-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:03:25.845-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:25.844-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:03:25.850-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:03:25.867-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:25.867-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:03:25.880-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:25.880-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:03:25.908-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2023-09-23T22:04:22.016-0400] {processor.py:157} INFO - Started process (PID=4365) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:04:22.020-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:04:22.021-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:04:22.021-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:04:22.032-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:04:22.054-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:04:22.054-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:04:22.068-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:04:22.068-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:04:22.104-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.096 seconds
+[2023-09-23T22:05:14.249-0400] {processor.py:157} INFO - Started process (PID=4568) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:05:14.252-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:05:14.253-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:05:14.253-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:05:14.260-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:05:14.275-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:05:14.275-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:05:14.285-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:05:14.285-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:05:14.312-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2023-09-23T22:06:07.192-0400] {processor.py:157} INFO - Started process (PID=4952) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:06:07.196-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:06:07.197-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:07.196-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:06:07.202-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:06:07.218-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:07.218-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:06:07.232-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:07.232-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:06:07.263-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:06:57.382-0400] {processor.py:157} INFO - Started process (PID=5263) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:06:57.387-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:06:57.388-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:57.387-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:06:57.395-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:06:57.413-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:57.413-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:06:57.424-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:57.424-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:06:57.449-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T22:07:47.431-0400] {processor.py:157} INFO - Started process (PID=5511) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:07:47.435-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:07:47.436-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:07:47.436-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:07:47.445-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:07:47.465-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:07:47.464-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:07:47.476-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:07:47.476-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:07:47.501-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2023-09-23T22:08:40.991-0400] {processor.py:157} INFO - Started process (PID=5775) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:08:40.993-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:08:40.994-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:40.993-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:08:41.003-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:08:41.017-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:41.017-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:08:41.027-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:41.026-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:08:41.048-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.062 seconds
+[2023-09-23T22:09:37.972-0400] {processor.py:157} INFO - Started process (PID=6052) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:09:37.976-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:09:37.978-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:09:37.977-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:09:37.995-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:09:38.019-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:09:38.019-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:09:38.032-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:09:38.032-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:09:38.063-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.093 seconds
+[2023-09-23T22:10:29.451-0400] {processor.py:157} INFO - Started process (PID=6385) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:10:29.454-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:10:29.455-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:29.455-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:10:29.460-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:10:29.473-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:29.473-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:10:29.483-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:29.483-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:10:29.519-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2023-09-23T22:11:21.356-0400] {processor.py:157} INFO - Started process (PID=6888) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:11:21.357-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:11:21.358-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:11:21.358-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:11:21.365-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:11:21.381-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:11:21.380-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:11:21.392-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:11:21.392-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:11:21.423-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2023-09-23T22:12:14.673-0400] {processor.py:157} INFO - Started process (PID=7151) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:12:14.679-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:12:14.682-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:12:14.681-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:12:14.699-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:12:14.721-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:12:14.721-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:12:14.736-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:12:14.736-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:12:14.768-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.100 seconds
+[2023-09-23T22:13:07.052-0400] {processor.py:157} INFO - Started process (PID=7413) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:13:07.058-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:13:07.059-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:07.058-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:13:07.066-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:13:07.082-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:07.082-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:13:07.092-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:07.092-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:13:07.120-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2023-09-23T22:14:00.550-0400] {processor.py:157} INFO - Started process (PID=7676) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:14:00.555-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:14:00.558-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:00.557-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:14:00.573-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:14:00.594-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:00.594-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:14:00.609-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:00.609-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:14:00.644-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.103 seconds
+[2023-09-23T22:14:50.355-0400] {processor.py:157} INFO - Started process (PID=7925) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:14:50.357-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:14:50.358-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:50.358-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:14:50.369-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:14:50.387-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:50.387-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:14:50.398-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:50.398-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:14:50.425-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:15:45.488-0400] {processor.py:157} INFO - Started process (PID=8195) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:15:45.490-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:15:45.492-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:45.491-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:15:45.498-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:15:45.514-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:45.514-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:15:45.524-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:45.523-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:15:45.552-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2023-09-23T22:16:42.493-0400] {processor.py:157} INFO - Started process (PID=8526) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:16:42.496-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:16:42.497-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:42.497-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:16:42.506-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:16:42.527-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:42.526-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:16:42.537-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:42.537-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:16:42.569-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.082 seconds
+[2023-09-23T22:17:33.347-0400] {processor.py:157} INFO - Started process (PID=8785) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:17:33.351-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:17:33.352-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:17:33.352-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:17:33.363-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:17:33.381-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:17:33.381-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:17:33.393-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:17:33.393-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:17:33.418-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:18:26.268-0400] {processor.py:157} INFO - Started process (PID=9041) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:18:26.272-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:18:26.274-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:26.273-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:18:26.284-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:18:26.301-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:26.301-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:18:26.313-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:26.312-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:18:26.339-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:19:19.591-0400] {processor.py:157} INFO - Started process (PID=9244) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:19:19.593-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:19:19.594-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:19.594-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:19:19.600-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:19:19.620-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:19.620-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:19:19.632-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:19.631-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:19:19.663-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:20:12.561-0400] {processor.py:157} INFO - Started process (PID=9501) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:20:12.564-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:20:12.565-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:20:12.564-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:20:12.573-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:20:12.590-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:20:12.589-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:20:12.599-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:20:12.598-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:20:12.627-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2023-09-23T22:21:02.131-0400] {processor.py:157} INFO - Started process (PID=9750) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:21:02.134-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:21:02.136-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:02.135-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:21:02.142-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:21:02.161-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:02.161-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:21:02.174-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:02.174-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:21:02.197-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2023-09-23T22:21:54.007-0400] {processor.py:157} INFO - Started process (PID=10066) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:21:54.011-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:21:54.012-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:54.012-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:21:54.020-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:21:54.038-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:54.038-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:21:54.047-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:54.047-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:21:54.076-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:22:46.673-0400] {processor.py:157} INFO - Started process (PID=10324) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:22:46.679-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:22:46.681-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:22:46.680-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:22:46.695-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:22:46.714-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:22:46.714-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:22:46.726-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:22:46.726-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:22:46.751-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.091 seconds
+[2023-09-23T22:23:36.647-0400] {processor.py:157} INFO - Started process (PID=10572) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:23:36.651-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:23:36.653-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:23:36.652-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:23:36.661-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:23:36.679-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:23:36.679-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:23:36.687-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:23:36.687-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:23:36.710-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2023-09-23T22:24:28.709-0400] {processor.py:157} INFO - Started process (PID=10833) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:24:28.712-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:24:28.713-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:28.712-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:24:28.721-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:24:28.735-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:28.735-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:24:28.745-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:28.745-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:24:28.773-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2023-09-23T22:25:21.813-0400] {processor.py:157} INFO - Started process (PID=11092) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:25:21.816-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:25:21.817-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:25:21.817-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:25:21.823-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:25:21.838-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:25:21.838-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:25:21.848-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:25:21.848-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:25:21.872-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.063 seconds
+[2023-09-23T22:26:11.228-0400] {processor.py:157} INFO - Started process (PID=11281) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:26:11.232-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:26:11.233-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:11.233-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:26:11.241-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:26:11.266-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:11.266-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:26:11.283-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:11.282-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:26:11.303-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2023-09-23T22:26:56.641-0400] {processor.py:157} INFO - Started process (PID=11575) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:26:56.646-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:26:56.647-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:56.647-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:26:56.656-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:26:56.676-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:56.676-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:26:56.685-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:56.685-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:26:56.707-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T22:27:47.057-0400] {processor.py:157} INFO - Started process (PID=11826) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:27:47.061-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:27:47.064-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:47.063-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:27:47.078-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:27:47.098-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:47.098-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:27:47.107-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:47.106-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:27:47.129-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:28:40.011-0400] {processor.py:157} INFO - Started process (PID=12089) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:28:40.014-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:28:40.015-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:28:40.015-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:28:40.026-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:28:40.046-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:28:40.045-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:28:40.054-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:28:40.054-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:28:40.076-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2023-09-23T22:29:33.153-0400] {processor.py:157} INFO - Started process (PID=12347) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:29:33.157-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:29:33.160-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:33.158-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:29:33.170-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:29:33.202-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:33.202-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:29:33.223-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:33.223-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:29:33.268-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.119 seconds
+[2023-09-23T22:30:24.354-0400] {processor.py:157} INFO - Started process (PID=12604) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:30:24.359-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:30:24.360-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:30:24.360-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:30:24.369-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:30:24.385-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:30:24.385-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:30:24.394-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:30:24.394-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:30:24.418-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2023-09-23T22:31:12.973-0400] {processor.py:157} INFO - Started process (PID=12914) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:31:12.977-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:31:12.978-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:31:12.978-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:31:12.984-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:31:13.000-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:31:13.000-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:31:13.012-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:31:13.012-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:31:13.038-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2023-09-23T22:32:05.998-0400] {processor.py:157} INFO - Started process (PID=13233) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:32:06.002-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:32:06.003-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:06.003-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:32:06.010-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:32:06.024-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:06.023-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:32:06.036-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:06.036-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:32:06.071-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T22:32:54.439-0400] {processor.py:157} INFO - Started process (PID=13481) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:32:54.441-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:32:54.442-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:54.441-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:32:54.452-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:32:54.477-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:54.476-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:32:54.485-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:54.485-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:32:54.508-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2023-09-23T22:33:40.614-0400] {processor.py:157} INFO - Started process (PID=13716) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:33:40.617-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:33:40.618-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:33:40.618-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:33:40.623-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:33:40.649-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:33:40.649-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:33:40.663-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:33:40.663-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:33:40.689-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.078 seconds
+[2023-09-23T22:34:31.237-0400] {processor.py:157} INFO - Started process (PID=14137) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:34:31.239-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:34:31.241-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:34:31.240-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:34:31.252-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:34:31.268-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:34:31.268-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:34:31.281-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:34:31.281-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:34:31.306-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T22:35:25.083-0400] {processor.py:157} INFO - Started process (PID=14520) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:35:25.087-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:35:25.088-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:25.088-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:35:25.097-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:35:25.117-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:25.117-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:35:25.127-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:25.127-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:35:25.150-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.073 seconds
+[2023-09-23T22:36:14.034-0400] {processor.py:157} INFO - Started process (PID=14765) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:36:14.038-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:36:14.040-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:36:14.039-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:36:14.047-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:36:14.065-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:36:14.065-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:36:14.078-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:36:14.078-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:36:14.101-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2023-09-23T22:37:03.301-0400] {processor.py:157} INFO - Started process (PID=15109) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:37:03.304-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:37:03.305-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:03.305-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:37:03.313-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:37:03.329-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:03.329-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:37:03.342-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:03.341-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:37:03.368-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.070 seconds
+[2023-09-23T22:37:53.309-0400] {processor.py:157} INFO - Started process (PID=15357) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:37:53.312-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:37:53.314-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:53.313-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:37:53.322-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:37:53.338-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:53.338-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:37:53.347-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:53.347-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:37:53.403-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.099 seconds
+[2023-09-23T22:38:46.600-0400] {processor.py:157} INFO - Started process (PID=15619) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:38:46.604-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:38:46.606-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:46.605-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:38:46.613-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:38:46.629-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:46.629-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:38:46.639-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:46.639-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:38:46.662-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2023-09-23T22:39:38.609-0400] {processor.py:157} INFO - Started process (PID=15872) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:39:38.613-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:39:38.615-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:39:38.614-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:39:38.622-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:39:38.640-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:39:38.640-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:39:38.649-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:39:38.649-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:39:38.677-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.071 seconds
+[2023-09-23T22:40:30.538-0400] {processor.py:157} INFO - Started process (PID=16130) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:40:30.542-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:40:30.544-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:40:30.543-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:40:30.553-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:40:30.571-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:40:30.571-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:40:30.586-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:40:30.585-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:40:30.618-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.085 seconds
+[2023-09-23T22:41:26.270-0400] {processor.py:157} INFO - Started process (PID=16469) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:41:26.275-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:41:26.276-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:26.276-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:41:26.287-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:41:26.308-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:26.308-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:41:26.318-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:26.317-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:41:26.340-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2023-09-23T22:42:22.497-0400] {processor.py:157} INFO - Started process (PID=16813) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:42:22.501-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:42:22.502-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:22.502-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:42:22.508-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:42:22.525-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:22.524-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:42:22.538-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:22.537-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:42:22.561-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.066 seconds
+[2023-09-23T22:43:17.761-0400] {processor.py:157} INFO - Started process (PID=17018) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:43:17.765-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:43:17.767-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:43:17.766-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:43:17.778-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:43:17.793-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:43:17.793-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:43:17.802-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:43:17.802-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:43:17.824-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.069 seconds
+[2023-09-23T22:44:14.790-0400] {processor.py:157} INFO - Started process (PID=17297) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:44:14.794-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:44:14.794-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:44:14.794-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:44:14.800-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:44:14.814-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:44:14.814-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:44:14.824-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:44:14.824-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:44:14.852-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-09-23T22:45:05.879-0400] {processor.py:157} INFO - Started process (PID=17548) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:45:05.883-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:45:05.885-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:05.884-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:45:05.900-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:45:05.923-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:05.922-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:45:05.936-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:05.936-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:45:05.959-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.088 seconds
+[2023-09-23T22:46:00.262-0400] {processor.py:157} INFO - Started process (PID=17811) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:46:00.266-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:46:00.267-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:00.266-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:46:00.272-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:46:00.290-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:00.290-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:46:00.303-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:00.303-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:46:00.332-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.078 seconds
+[2023-09-23T22:46:51.847-0400] {processor.py:157} INFO - Started process (PID=18129) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:46:51.852-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:46:51.854-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:51.853-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:46:51.864-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:46:51.878-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:51.878-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:46:51.887-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:51.887-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:46:51.913-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.072 seconds
+[2023-09-23T22:47:47.963-0400] {processor.py:157} INFO - Started process (PID=18467) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:47:47.966-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:47:47.968-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:47.967-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:47:47.977-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:47:47.998-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:47.998-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:47:48.011-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:48.011-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:47:48.033-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2023-09-23T22:48:36.115-0400] {processor.py:157} INFO - Started process (PID=18782) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:48:36.118-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:48:36.119-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:48:36.118-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:48:36.124-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:48:36.137-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:48:36.137-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:48:36.146-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:48:36.146-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:48:36.168-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.056 seconds
+[2023-09-23T22:49:31.261-0400] {processor.py:157} INFO - Started process (PID=19243) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:49:31.265-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:49:31.267-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:49:31.266-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:49:31.275-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:49:31.291-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:49:31.291-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:49:31.300-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:49:31.300-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:49:31.323-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.067 seconds
+[2023-09-23T22:50:24.559-0400] {processor.py:157} INFO - Started process (PID=19585) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:50:24.560-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:50:24.561-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:24.561-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:50:24.566-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:50:24.582-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:24.581-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:50:24.591-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:24.591-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:50:24.612-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.056 seconds
+[2023-09-23T22:51:21.462-0400] {processor.py:157} INFO - Started process (PID=19894) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:51:21.467-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:51:21.468-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:21.467-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:51:21.474-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:51:21.486-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:21.486-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:51:21.495-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:21.494-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:51:21.516-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.060 seconds
+[2023-09-23T22:52:14.432-0400] {processor.py:157} INFO - Started process (PID=20356) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:52:14.436-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:52:14.437-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:52:14.437-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:52:14.443-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:52:14.459-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:52:14.458-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:52:14.473-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:52:14.473-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:52:14.504-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.075 seconds
+[2023-09-23T22:53:13.607-0400] {processor.py:157} INFO - Started process (PID=20779) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:53:13.611-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:53:13.613-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:13.612-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:53:13.621-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:53:13.644-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:13.644-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:53:13.653-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:13.652-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:53:13.674-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T22:53:52.137-0400] {processor.py:157} INFO - Started process (PID=20987) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:53:52.141-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:53:52.142-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:52.142-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:53:52.150-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:53:52.170-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:52.170-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:53:52.182-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:52.182-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:53:52.204-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T22:54:47.404-0400] {processor.py:157} INFO - Started process (PID=21299) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:54:47.407-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:54:47.408-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:54:47.408-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:54:47.415-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:54:47.432-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:54:47.432-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:54:47.441-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:54:47.441-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:54:47.465-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-09-23T22:55:28.514-0400] {processor.py:157} INFO - Started process (PID=21563) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:55:28.518-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:55:28.519-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:28.519-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:55:28.527-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:55:28.544-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:28.544-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:55:28.553-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:28.553-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:55:28.575-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.065 seconds
+[2023-09-23T22:56:25.841-0400] {processor.py:157} INFO - Started process (PID=21889) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:56:25.845-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:56:25.846-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:25.846-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:56:25.855-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:56:25.876-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:25.875-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:56:25.888-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:25.888-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:56:25.916-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.079 seconds
+[2023-09-23T22:57:22.999-0400] {processor.py:157} INFO - Started process (PID=22236) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:57:23.004-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:57:23.006-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:57:23.005-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:57:23.015-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:57:23.045-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:57:23.045-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:57:23.056-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:57:23.056-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:57:23.078-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.083 seconds
+[2023-09-23T22:58:20.833-0400] {processor.py:157} INFO - Started process (PID=22532) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:58:20.838-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:58:20.840-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:20.839-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:58:20.853-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:58:20.869-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:20.869-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:58:20.878-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:20.878-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:58:20.899-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.074 seconds
+[2023-09-23T22:59:12.836-0400] {processor.py:157} INFO - Started process (PID=22837) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:59:12.840-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:59:12.841-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:12.841-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:59:12.849-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:59:12.868-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:12.868-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:59:12.878-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:12.878-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:59:12.900-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.068 seconds
+[2023-09-23T22:59:52.286-0400] {processor.py:157} INFO - Started process (PID=23044) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:59:52.289-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T22:59:52.290-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:52.290-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:59:52.295-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T22:59:52.306-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:52.306-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:59:52.315-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:52.315-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T22:59:52.339-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.056 seconds
+[2023-09-23T23:00:31.933-0400] {processor.py:157} INFO - Started process (PID=23328) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:00:31.938-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T23:00:31.940-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:31.939-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:00:31.948-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:00:31.973-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:31.972-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:00:31.984-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:31.983-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T23:00:32.005-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2023-09-23T23:01:13.317-0400] {processor.py:157} INFO - Started process (PID=23555) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:01:13.321-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T23:01:13.323-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:01:13.322-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:01:13.331-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:01:13.354-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:01:13.354-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:01:13.367-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:01:13.367-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T23:01:13.388-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds
+[2023-09-23T23:02:08.744-0400] {processor.py:157} INFO - Started process (PID=23882) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:02:08.749-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T23:02:08.751-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:08.750-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:02:08.760-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:02:08.772-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:08.772-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:02:08.781-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:08.781-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T23:02:08.803-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.064 seconds
+[2023-09-23T23:03:06.581-0400] {processor.py:157} INFO - Started process (PID=24161) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:03:06.584-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T23:03:06.585-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:06.585-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:03:06.590-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:03:06.605-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:06.605-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:03:06.617-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:06.617-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T23:03:06.639-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.061 seconds
+[2023-09-23T23:03:47.273-0400] {processor.py:157} INFO - Started process (PID=24369) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:03:47.278-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T23:03:47.281-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:47.280-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:03:47.289-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:03:47.311-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:47.311-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:03:47.320-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:47.320-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T23:03:47.344-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.080 seconds
+[2023-09-23T23:04:43.162-0400] {processor.py:157} INFO - Started process (PID=24644) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:04:43.164-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-09-23T23:04:43.165-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:43.165-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:04:43.172-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-09-23T23:04:43.200-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:43.199-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:04:43.213-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:43.212-0400] {dag.py:3696} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-09-23T23:04:43.234-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 0.076 seconds

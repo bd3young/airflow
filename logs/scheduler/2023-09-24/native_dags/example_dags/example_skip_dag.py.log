@@ -1,0 +1,714 @@
+[2023-09-23T21:56:27.474-0400] {processor.py:157} INFO - Started process (PID=974) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:56:27.475-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T21:56:27.477-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:56:27.476-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:56:27.496-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:56:27.510-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:56:27.510-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:56:27.567-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:56:27.566-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T01:56:27.566063+00:00, run_after=2023-09-24T01:56:27.566063+00:00
+[2023-09-23T21:56:27.633-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.171 seconds
+[2023-09-23T21:57:13.335-0400] {processor.py:157} INFO - Started process (PID=1564) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:57:13.337-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T21:57:13.338-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:57:13.337-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:57:13.345-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:57:13.372-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:57:13.371-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:57:13.397-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:57:13.397-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T01:57:13.397177+00:00, run_after=2023-09-24T01:57:13.397177+00:00
+[2023-09-23T21:57:13.421-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.089 seconds
+[2023-09-23T21:58:00.144-0400] {processor.py:157} INFO - Started process (PID=1864) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:58:00.145-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T21:58:00.147-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:00.146-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:58:00.154-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:58:00.170-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:00.169-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:58:00.187-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:00.187-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T01:58:00.187398+00:00, run_after=2023-09-24T01:58:00.187398+00:00
+[2023-09-23T21:58:00.209-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2023-09-23T21:58:50.883-0400] {processor.py:157} INFO - Started process (PID=2120) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:58:50.886-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T21:58:50.888-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:50.887-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:58:50.896-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:58:50.912-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:50.912-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:58:50.930-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:58:50.930-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T01:58:50.930552+00:00, run_after=2023-09-24T01:58:50.930552+00:00
+[2023-09-23T21:58:50.957-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T21:59:27.449-0400] {processor.py:157} INFO - Started process (PID=2324) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:59:27.452-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T21:59:27.453-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:59:27.453-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:59:27.462-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T21:59:27.479-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:59:27.479-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T21:59:27.500-0400] {logging_mixin.py:151} INFO - [2023-09-23T21:59:27.499-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T01:59:27.499464+00:00, run_after=2023-09-24T01:59:27.499464+00:00
+[2023-09-23T21:59:27.524-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-09-23T22:00:04.417-0400] {processor.py:157} INFO - Started process (PID=2808) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:00:04.418-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:00:04.419-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:04.419-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:00:04.426-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:00:04.442-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:04.442-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:00:04.461-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:04.461-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:00:04.461139+00:00, run_after=2023-09-24T02:00:04.461139+00:00
+[2023-09-23T22:00:04.489-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:00:38.842-0400] {processor.py:157} INFO - Started process (PID=3213) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:00:38.846-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:00:38.847-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:38.847-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:00:38.860-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:00:38.881-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:38.881-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:00:38.901-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:00:38.901-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:00:38.901009+00:00, run_after=2023-09-24T02:00:38.901009+00:00
+[2023-09-23T22:00:38.931-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2023-09-23T22:01:15.733-0400] {processor.py:157} INFO - Started process (PID=3351) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:01:15.736-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:01:15.738-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:15.737-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:01:15.748-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:01:15.768-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:15.768-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:01:15.791-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:15.790-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:01:15.790744+00:00, run_after=2023-09-24T02:01:15.790744+00:00
+[2023-09-23T22:01:15.822-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.093 seconds
+[2023-09-23T22:01:50.291-0400] {processor.py:157} INFO - Started process (PID=3610) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:01:50.294-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:01:50.296-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:50.295-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:01:50.303-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:01:50.320-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:50.319-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:01:50.339-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:01:50.339-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:01:50.338985+00:00, run_after=2023-09-24T02:01:50.338985+00:00
+[2023-09-23T22:01:50.369-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-09-23T22:02:25.127-0400] {processor.py:157} INFO - Started process (PID=3802) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:02:25.131-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:02:25.133-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:02:25.132-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:02:25.142-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:02:25.160-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:02:25.160-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:02:25.185-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:02:25.185-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:02:25.184915+00:00, run_after=2023-09-24T02:02:25.184915+00:00
+[2023-09-23T22:02:25.219-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.096 seconds
+[2023-09-23T22:03:18.325-0400] {processor.py:157} INFO - Started process (PID=4004) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:03:18.328-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:03:18.330-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:18.329-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:03:18.338-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:03:18.354-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:18.354-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:03:18.373-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:18.373-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:03:18.373335+00:00, run_after=2023-09-24T02:03:18.373335+00:00
+[2023-09-23T22:03:18.400-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-09-23T22:03:56.190-0400] {processor.py:157} INFO - Started process (PID=4208) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:03:56.194-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:03:56.195-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:56.195-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:03:56.205-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:03:56.223-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:56.223-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:03:56.242-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:03:56.241-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:03:56.241691+00:00, run_after=2023-09-24T02:03:56.241691+00:00
+[2023-09-23T22:03:56.263-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-09-23T22:04:34.233-0400] {processor.py:157} INFO - Started process (PID=4414) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:04:34.237-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:04:34.240-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:04:34.239-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:04:34.259-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:04:34.279-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:04:34.279-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:04:34.297-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:04:34.297-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:04:34.297023+00:00, run_after=2023-09-24T02:04:34.297023+00:00
+[2023-09-23T22:04:34.324-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.099 seconds
+[2023-09-23T22:05:26.613-0400] {processor.py:157} INFO - Started process (PID=4677) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:05:26.617-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:05:26.619-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:05:26.618-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:05:26.628-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:05:26.644-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:05:26.644-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:05:26.661-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:05:26.661-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:05:26.660880+00:00, run_after=2023-09-24T02:05:26.660880+00:00
+[2023-09-23T22:05:26.683-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2023-09-23T22:06:02.687-0400] {processor.py:157} INFO - Started process (PID=4935) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:06:02.690-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:06:02.691-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:02.691-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:06:02.699-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:06:02.715-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:02.715-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:06:02.733-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:02.733-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:06:02.733601+00:00, run_after=2023-09-24T02:06:02.733601+00:00
+[2023-09-23T22:06:02.760-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:06:52.591-0400] {processor.py:157} INFO - Started process (PID=5246) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:06:52.596-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:06:52.597-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:52.597-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:06:52.609-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:06:52.629-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:52.629-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:06:52.647-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:06:52.646-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:06:52.646738+00:00, run_after=2023-09-24T02:06:52.646738+00:00
+[2023-09-23T22:06:52.668-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-09-23T22:07:41.477-0400] {processor.py:157} INFO - Started process (PID=5494) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:07:41.481-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:07:41.483-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:07:41.482-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:07:41.497-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:07:41.522-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:07:41.521-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:07:41.540-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:07:41.539-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:07:41.539614+00:00, run_after=2023-09-24T02:07:41.539614+00:00
+[2023-09-23T22:07:41.565-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2023-09-23T22:08:17.283-0400] {processor.py:157} INFO - Started process (PID=5626) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:08:17.286-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:08:17.287-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:17.287-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:08:17.295-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:08:17.308-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:17.308-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:08:17.325-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:17.324-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:08:17.324719+00:00, run_after=2023-09-24T02:08:17.324719+00:00
+[2023-09-23T22:08:17.351-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2023-09-23T22:08:53.671-0400] {processor.py:157} INFO - Started process (PID=5823) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:08:53.673-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:08:53.674-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:53.674-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:08:53.685-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:08:53.705-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:53.705-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:08:53.728-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:08:53.728-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:08:53.727937+00:00, run_after=2023-09-24T02:08:53.727937+00:00
+[2023-09-23T22:08:53.760-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.096 seconds
+[2023-09-23T22:09:30.782-0400] {processor.py:157} INFO - Started process (PID=6028) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:09:30.783-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:09:30.784-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:09:30.783-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:09:30.793-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:09:30.810-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:09:30.810-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:09:30.831-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:09:30.831-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:09:30.830807+00:00, run_after=2023-09-24T02:09:30.830807+00:00
+[2023-09-23T22:09:30.863-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2023-09-23T22:10:06.709-0400] {processor.py:157} INFO - Started process (PID=6160) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:10:06.712-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:10:06.713-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:06.713-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:10:06.719-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:10:06.736-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:06.736-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:10:06.754-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:06.754-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:10:06.754260+00:00, run_after=2023-09-24T02:10:06.754260+00:00
+[2023-09-23T22:10:06.784-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T22:10:41.993-0400] {processor.py:157} INFO - Started process (PID=6558) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:10:41.997-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:10:41.998-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:41.998-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:10:42.006-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:10:42.026-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:42.026-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:10:42.047-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:10:42.047-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:10:42.047185+00:00, run_after=2023-09-24T02:10:42.047185+00:00
+[2023-09-23T22:10:42.073-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2023-09-23T22:11:32.997-0400] {processor.py:157} INFO - Started process (PID=6993) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:11:33.000-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:11:33.001-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:11:33.001-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:11:33.010-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:11:33.028-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:11:33.028-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:11:33.045-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:11:33.045-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:11:33.045266+00:00, run_after=2023-09-24T02:11:33.045266+00:00
+[2023-09-23T22:11:33.069-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-09-23T22:12:09.645-0400] {processor.py:157} INFO - Started process (PID=7133) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:12:09.649-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:12:09.650-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:12:09.649-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:12:09.658-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:12:09.672-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:12:09.671-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:12:09.687-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:12:09.686-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:12:09.686671+00:00, run_after=2023-09-24T02:12:09.686671+00:00
+[2023-09-23T22:12:09.708-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:13:00.798-0400] {processor.py:157} INFO - Started process (PID=7389) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:13:00.801-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:13:00.803-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:00.802-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:13:00.809-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:13:00.821-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:00.821-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:13:00.835-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:00.835-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:13:00.835224+00:00, run_after=2023-09-24T02:13:00.835224+00:00
+[2023-09-23T22:13:00.856-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2023-09-23T22:13:37.419-0400] {processor.py:157} INFO - Started process (PID=7587) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:13:37.424-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:13:37.426-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:37.425-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:13:37.435-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:13:37.453-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:37.453-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:13:37.469-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:13:37.469-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:13:37.469618+00:00, run_after=2023-09-24T02:13:37.469618+00:00
+[2023-09-23T22:13:37.490-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:14:14.135-0400] {processor.py:157} INFO - Started process (PID=7725) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:14:14.139-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:14:14.141-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:14.140-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:14:14.152-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:14:14.168-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:14.168-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:14:14.182-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:14:14.182-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:14:14.182097+00:00, run_after=2023-09-24T02:14:14.182097+00:00
+[2023-09-23T22:14:14.203-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2023-09-23T22:15:03.087-0400] {processor.py:157} INFO - Started process (PID=7974) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:15:03.093-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:15:03.094-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:03.094-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:15:03.110-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:15:03.134-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:03.134-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:15:03.153-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:03.153-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:15:03.153343+00:00, run_after=2023-09-24T02:15:03.153343+00:00
+[2023-09-23T22:15:03.183-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.104 seconds
+[2023-09-23T22:15:39.356-0400] {processor.py:157} INFO - Started process (PID=8172) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:15:39.358-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:15:39.362-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:39.360-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:15:39.372-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:15:39.389-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:39.389-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:15:39.408-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:15:39.408-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:15:39.408221+00:00, run_after=2023-09-24T02:15:39.408221+00:00
+[2023-09-23T22:15:39.437-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2023-09-23T22:16:17.149-0400] {processor.py:157} INFO - Started process (PID=8315) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:16:17.151-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:16:17.153-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:17.152-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:16:17.162-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:16:17.186-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:17.186-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:16:17.216-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:17.215-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:16:17.215632+00:00, run_after=2023-09-24T02:16:17.215632+00:00
+[2023-09-23T22:16:17.244-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.101 seconds
+[2023-09-23T22:16:54.399-0400] {processor.py:157} INFO - Started process (PID=8575) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:16:54.403-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:16:54.404-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:54.404-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:16:54.412-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:16:54.427-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:54.427-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:16:54.446-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:16:54.445-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:16:54.445634+00:00, run_after=2023-09-24T02:16:54.445634+00:00
+[2023-09-23T22:16:54.474-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-09-23T22:17:28.399-0400] {processor.py:157} INFO - Started process (PID=8768) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:17:28.403-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:17:28.404-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:17:28.404-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:17:28.414-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:17:28.431-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:17:28.430-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:17:28.449-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:17:28.449-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:17:28.449024+00:00, run_after=2023-09-24T02:17:28.449024+00:00
+[2023-09-23T22:17:28.478-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-09-23T22:18:03.718-0400] {processor.py:157} INFO - Started process (PID=8899) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:18:03.723-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:18:03.725-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:03.724-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:18:03.735-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:18:03.751-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:03.751-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:18:03.770-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:03.769-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:18:03.769771+00:00, run_after=2023-09-24T02:18:03.769771+00:00
+[2023-09-23T22:18:03.791-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-09-23T22:18:39.334-0400] {processor.py:157} INFO - Started process (PID=9091) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:18:39.340-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:18:39.342-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:39.341-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:18:39.365-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:18:39.387-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:39.387-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:18:39.408-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:18:39.408-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:18:39.408289+00:00, run_after=2023-09-24T02:18:39.408289+00:00
+[2023-09-23T22:18:39.445-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.121 seconds
+[2023-09-23T22:19:15.673-0400] {processor.py:157} INFO - Started process (PID=9228) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:19:15.677-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:19:15.679-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:15.678-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:19:15.691-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:19:15.710-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:15.710-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:19:15.728-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:15.728-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:19:15.728621+00:00, run_after=2023-09-24T02:19:15.728621+00:00
+[2023-09-23T22:19:15.751-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2023-09-23T22:19:52.158-0400] {processor.py:157} INFO - Started process (PID=9427) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:19:52.160-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:19:52.162-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:52.161-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:19:52.170-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:19:52.188-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:52.187-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:19:52.210-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:19:52.210-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:19:52.209780+00:00, run_after=2023-09-24T02:19:52.209780+00:00
+[2023-09-23T22:19:52.247-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2023-09-23T22:20:39.736-0400] {processor.py:157} INFO - Started process (PID=9668) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:20:39.742-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:20:39.745-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:20:39.744-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:20:39.763-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:20:39.787-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:20:39.787-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:20:39.806-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:20:39.806-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:20:39.806412+00:00, run_after=2023-09-24T02:20:39.806412+00:00
+[2023-09-23T22:20:39.835-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.107 seconds
+[2023-09-23T22:21:15.825-0400] {processor.py:157} INFO - Started process (PID=9799) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:21:15.829-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:21:15.830-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:15.829-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:21:15.839-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:21:15.856-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:15.855-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:21:15.872-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:15.872-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:21:15.872037+00:00, run_after=2023-09-24T02:21:15.872037+00:00
+[2023-09-23T22:21:15.898-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:21:49.959-0400] {processor.py:157} INFO - Started process (PID=10050) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:21:49.963-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:21:49.964-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:49.964-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:21:49.975-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:21:49.993-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:49.993-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:21:50.012-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:21:50.012-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:21:50.012083+00:00, run_after=2023-09-24T02:21:50.012083+00:00
+[2023-09-23T22:21:50.042-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.088 seconds
+[2023-09-23T22:22:26.029-0400] {processor.py:157} INFO - Started process (PID=10249) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:22:26.030-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:22:26.032-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:22:26.031-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:22:26.041-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:22:26.061-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:22:26.060-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:22:26.085-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:22:26.085-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:22:26.084868+00:00, run_after=2023-09-24T02:22:26.084868+00:00
+[2023-09-23T22:22:26.110-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.086 seconds
+[2023-09-23T22:23:17.444-0400] {processor.py:157} INFO - Started process (PID=10444) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:23:17.448-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:23:17.449-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:23:17.448-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:23:17.455-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:23:17.468-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:23:17.468-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:23:17.484-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:23:17.484-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:23:17.484614+00:00, run_after=2023-09-24T02:23:17.484614+00:00
+[2023-09-23T22:23:17.517-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.075 seconds
+[2023-09-23T22:24:08.181-0400] {processor.py:157} INFO - Started process (PID=10693) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:24:08.183-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:24:08.184-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:08.184-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:24:08.196-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:24:08.213-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:08.213-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:24:08.229-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:08.229-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:24:08.229544+00:00, run_after=2023-09-24T02:24:08.229544+00:00
+[2023-09-23T22:24:08.252-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:24:57.519-0400] {processor.py:157} INFO - Started process (PID=10943) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:24:57.523-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:24:57.524-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:57.524-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:24:57.533-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:24:57.550-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:57.550-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:24:57.565-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:24:57.565-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:24:57.565244+00:00, run_after=2023-09-24T02:24:57.565244+00:00
+[2023-09-23T22:24:57.589-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2023-09-23T22:25:33.775-0400] {processor.py:157} INFO - Started process (PID=11135) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:25:33.780-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:25:33.781-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:25:33.781-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:25:33.792-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:25:33.814-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:25:33.814-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:25:33.830-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:25:33.830-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:25:33.830020+00:00, run_after=2023-09-24T02:25:33.830020+00:00
+[2023-09-23T22:25:33.853-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-09-23T22:26:22.233-0400] {processor.py:157} INFO - Started process (PID=11383) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:26:22.237-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:26:22.239-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:22.238-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:26:22.249-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:26:22.265-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:22.264-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:26:22.279-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:26:22.278-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:26:22.278699+00:00, run_after=2023-09-24T02:26:22.278699+00:00
+[2023-09-23T22:26:22.300-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2023-09-23T22:27:09.139-0400] {processor.py:157} INFO - Started process (PID=11624) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:27:09.143-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:27:09.144-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:09.143-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:27:09.150-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:27:09.166-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:09.166-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:27:09.184-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:09.184-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:27:09.183828+00:00, run_after=2023-09-24T02:27:09.183828+00:00
+[2023-09-23T22:27:09.205-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2023-09-23T22:27:59.516-0400] {processor.py:157} INFO - Started process (PID=11875) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:27:59.520-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:27:59.521-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:59.521-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:27:59.531-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:27:59.547-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:59.547-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:27:59.561-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:27:59.561-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:27:59.561274+00:00, run_after=2023-09-24T02:27:59.561274+00:00
+[2023-09-23T22:27:59.582-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2023-09-23T22:28:35.032-0400] {processor.py:157} INFO - Started process (PID=12066) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:28:35.037-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:28:35.038-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:28:35.038-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:28:35.050-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:28:35.067-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:28:35.067-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:28:35.082-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:28:35.082-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:28:35.082460+00:00, run_after=2023-09-24T02:28:35.082460+00:00
+[2023-09-23T22:28:35.104-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-09-23T22:29:10.020-0400] {processor.py:157} INFO - Started process (PID=12203) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:29:10.021-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:29:10.022-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:10.022-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:29:10.028-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:29:10.043-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:10.043-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:29:10.060-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:10.060-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:29:10.060327+00:00, run_after=2023-09-24T02:29:10.060327+00:00
+[2023-09-23T22:29:10.085-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.069 seconds
+[2023-09-23T22:29:46.294-0400] {processor.py:157} INFO - Started process (PID=12397) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:29:46.296-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:29:46.297-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:46.297-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:29:46.303-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:29:46.320-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:46.320-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:29:46.340-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:29:46.340-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:29:46.340307+00:00, run_after=2023-09-24T02:29:46.340307+00:00
+[2023-09-23T22:29:46.369-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.081 seconds
+[2023-09-23T22:30:22.030-0400] {processor.py:157} INFO - Started process (PID=12595) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:30:22.034-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:30:22.035-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:30:22.035-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:30:22.047-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:30:22.065-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:30:22.065-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:30:22.080-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:30:22.080-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:30:22.080108+00:00, run_after=2023-09-24T02:30:22.080108+00:00
+[2023-09-23T22:30:22.101-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-09-23T22:31:10.434-0400] {processor.py:157} INFO - Started process (PID=12839) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:31:10.435-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:31:10.436-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:31:10.436-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:31:10.443-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:31:10.459-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:31:10.459-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:31:10.480-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:31:10.479-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:31:10.479588+00:00, run_after=2023-09-24T02:31:10.479588+00:00
+[2023-09-23T22:31:10.505-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2023-09-23T22:32:00.866-0400] {processor.py:157} INFO - Started process (PID=13216) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:32:00.899-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:32:00.900-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:00.900-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:32:00.912-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:32:00.934-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:00.934-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:32:00.956-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:00.956-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:32:00.955887+00:00, run_after=2023-09-24T02:32:00.955887+00:00
+[2023-09-23T22:32:00.988-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.127 seconds
+[2023-09-23T22:32:36.420-0400] {processor.py:157} INFO - Started process (PID=13408) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:32:36.423-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:32:36.424-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:36.424-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:32:36.433-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:32:36.450-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:36.450-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:32:36.470-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:32:36.470-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:32:36.469956+00:00, run_after=2023-09-24T02:32:36.469956+00:00
+[2023-09-23T22:32:36.495-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-09-23T22:33:22.192-0400] {processor.py:157} INFO - Started process (PID=13642) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:33:22.195-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:33:22.196-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:33:22.196-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:33:22.204-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:33:22.219-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:33:22.219-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:33:22.242-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:33:22.241-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:33:22.241731+00:00, run_after=2023-09-24T02:33:22.241731+00:00
+[2023-09-23T22:33:22.267-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.078 seconds
+[2023-09-23T22:34:10.655-0400] {processor.py:157} INFO - Started process (PID=13830) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:34:10.660-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:34:10.662-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:34:10.661-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:34:10.674-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:34:10.687-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:34:10.687-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:34:10.703-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:34:10.703-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:34:10.703157+00:00, run_after=2023-09-24T02:34:10.703157+00:00
+[2023-09-23T22:34:10.724-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2023-09-23T22:35:02.543-0400] {processor.py:157} INFO - Started process (PID=14366) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:35:02.551-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:35:02.552-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:02.552-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:35:02.561-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:35:02.585-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:02.585-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:35:02.611-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:02.610-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:35:02.610599+00:00, run_after=2023-09-24T02:35:02.610599+00:00
+[2023-09-23T22:35:02.661-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.122 seconds
+[2023-09-23T22:35:40.284-0400] {processor.py:157} INFO - Started process (PID=14577) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:35:40.288-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:35:40.289-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:40.289-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:35:40.296-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:35:40.312-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:40.312-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:35:40.331-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:35:40.331-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:35:40.331045+00:00, run_after=2023-09-24T02:35:40.331045+00:00
+[2023-09-23T22:35:40.360-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.079 seconds
+[2023-09-23T22:36:25.844-0400] {processor.py:157} INFO - Started process (PID=14935) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:36:25.845-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:36:25.846-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:36:25.846-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:36:25.854-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:36:25.887-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:36:25.887-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:36:25.904-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:36:25.904-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:36:25.904204+00:00, run_after=2023-09-24T02:36:25.904204+00:00
+[2023-09-23T22:36:25.927-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.085 seconds
+[2023-09-23T22:37:17.508-0400] {processor.py:157} INFO - Started process (PID=15165) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:37:17.511-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:37:17.512-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:17.512-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:37:17.519-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:37:17.532-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:17.532-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:37:17.548-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:37:17.547-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:37:17.547701+00:00, run_after=2023-09-24T02:37:17.547701+00:00
+[2023-09-23T22:37:17.571-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:38:06.362-0400] {processor.py:157} INFO - Started process (PID=15407) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:38:06.366-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:38:06.368-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:06.367-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:38:06.380-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:38:06.417-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:06.417-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:38:06.440-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:06.440-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:38:06.439899+00:00, run_after=2023-09-24T02:38:06.439899+00:00
+[2023-09-23T22:38:06.466-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.108 seconds
+[2023-09-23T22:38:42.469-0400] {processor.py:157} INFO - Started process (PID=15606) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:38:42.471-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:38:42.473-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:42.472-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:38:42.490-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:38:42.512-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:42.511-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:38:42.527-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:38:42.527-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:38:42.527297+00:00, run_after=2023-09-24T02:38:42.527297+00:00
+[2023-09-23T22:38:42.551-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2023-09-23T22:39:18.036-0400] {processor.py:157} INFO - Started process (PID=15738) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:39:18.039-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:39:18.040-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:39:18.040-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:39:18.047-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:39:18.060-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:39:18.059-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:39:18.075-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:39:18.075-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:39:18.075177+00:00, run_after=2023-09-24T02:39:18.075177+00:00
+[2023-09-23T22:39:18.099-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.065 seconds
+[2023-09-23T22:40:10.470-0400] {processor.py:157} INFO - Started process (PID=15994) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:40:10.472-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:40:10.472-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:40:10.472-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:40:10.479-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:40:10.492-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:40:10.492-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:40:10.510-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:40:10.510-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:40:10.510268+00:00, run_after=2023-09-24T02:40:10.510268+00:00
+[2023-09-23T22:40:10.533-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:41:02.643-0400] {processor.py:157} INFO - Started process (PID=16252) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:41:02.646-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:41:02.647-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:02.646-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:41:02.653-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:41:02.666-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:02.666-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:41:02.682-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:02.682-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:41:02.682078+00:00, run_after=2023-09-24T02:41:02.682078+00:00
+[2023-09-23T22:41:02.704-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2023-09-23T22:41:41.307-0400] {processor.py:157} INFO - Started process (PID=16573) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:41:41.311-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:41:41.313-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:41.312-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:41:41.323-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:41:41.341-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:41.341-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:41:41.357-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:41:41.357-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:41:41.356846+00:00, run_after=2023-09-24T02:41:41.356846+00:00
+[2023-09-23T22:41:41.397-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.094 seconds
+[2023-09-23T22:42:17.741-0400] {processor.py:157} INFO - Started process (PID=16736) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:42:17.745-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:42:17.747-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:17.746-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:42:17.756-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:42:17.769-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:17.769-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:42:17.784-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:17.784-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:42:17.784509+00:00, run_after=2023-09-24T02:42:17.784509+00:00
+[2023-09-23T22:42:17.807-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2023-09-23T22:42:54.550-0400] {processor.py:157} INFO - Started process (PID=16935) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:42:54.554-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:42:54.556-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:54.555-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:42:54.563-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:42:54.579-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:54.579-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:42:54.599-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:42:54.599-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:42:54.598966+00:00, run_after=2023-09-24T02:42:54.598966+00:00
+[2023-09-23T22:42:54.627-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T22:43:33.011-0400] {processor.py:157} INFO - Started process (PID=17135) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:43:33.015-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:43:33.016-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:43:33.015-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:43:33.027-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:43:33.045-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:43:33.045-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:43:33.062-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:43:33.062-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:43:33.062506+00:00, run_after=2023-09-24T02:43:33.062506+00:00
+[2023-09-23T22:43:33.085-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-09-23T22:44:11.510-0400] {processor.py:157} INFO - Started process (PID=17281) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:44:11.515-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:44:11.517-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:44:11.516-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:44:11.528-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:44:11.548-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:44:11.548-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:44:11.563-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:44:11.563-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:44:11.562912+00:00, run_after=2023-09-24T02:44:11.562912+00:00
+[2023-09-23T22:44:11.585-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.083 seconds
+[2023-09-23T22:45:03.315-0400] {processor.py:157} INFO - Started process (PID=17538) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:45:03.316-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:45:03.317-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:03.316-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:45:03.323-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:45:03.337-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:03.337-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:45:03.355-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:03.355-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:45:03.355088+00:00, run_after=2023-09-24T02:45:03.355088+00:00
+[2023-09-23T22:45:03.378-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:45:54.754-0400] {processor.py:157} INFO - Started process (PID=17791) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:45:54.757-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:45:54.758-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:54.758-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:45:54.768-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:45:54.785-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:54.785-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:45:54.804-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:45:54.803-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:45:54.803592+00:00, run_after=2023-09-24T02:45:54.803592+00:00
+[2023-09-23T22:45:54.830-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T22:46:30.450-0400] {processor.py:157} INFO - Started process (PID=18048) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:46:30.456-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:46:30.458-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:30.457-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:46:30.476-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:46:30.496-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:30.496-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:46:30.514-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:46:30.514-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:46:30.514122+00:00, run_after=2023-09-24T02:46:30.514122+00:00
+[2023-09-23T22:46:30.542-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.101 seconds
+[2023-09-23T22:47:07.449-0400] {processor.py:157} INFO - Started process (PID=18199) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:47:07.452-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:47:07.453-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:07.453-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:47:07.459-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:47:07.473-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:07.473-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:47:07.489-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:07.489-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:47:07.489356+00:00, run_after=2023-09-24T02:47:07.489356+00:00
+[2023-09-23T22:47:07.512-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:47:45.528-0400] {processor.py:157} INFO - Started process (PID=18459) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:47:45.533-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:47:45.534-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:45.534-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:47:45.544-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:47:45.565-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:45.565-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:47:45.580-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:47:45.580-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:47:45.579939+00:00, run_after=2023-09-24T02:47:45.579939+00:00
+[2023-09-23T22:47:45.603-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2023-09-23T22:48:34.529-0400] {processor.py:157} INFO - Started process (PID=18765) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:48:34.533-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:48:34.534-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:48:34.534-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:48:34.544-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:48:34.560-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:48:34.560-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:48:34.576-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:48:34.575-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:48:34.575779+00:00, run_after=2023-09-24T02:48:34.575779+00:00
+[2023-09-23T22:48:34.597-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2023-09-23T22:49:26.378-0400] {processor.py:157} INFO - Started process (PID=19216) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:49:26.380-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:49:26.381-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:49:26.380-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:49:26.392-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:49:26.412-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:49:26.412-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:49:26.428-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:49:26.428-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:49:26.428638+00:00, run_after=2023-09-24T02:49:26.428638+00:00
+[2023-09-23T22:49:26.451-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.077 seconds
+[2023-09-23T22:50:01.685-0400] {processor.py:157} INFO - Started process (PID=19378) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:50:01.687-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:50:01.688-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:01.688-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:50:01.699-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:50:01.712-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:01.712-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:50:01.726-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:01.726-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:50:01.726577+00:00, run_after=2023-09-24T02:50:01.726577+00:00
+[2023-09-23T22:50:01.748-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.067 seconds
+[2023-09-23T22:50:38.343-0400] {processor.py:157} INFO - Started process (PID=19712) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:50:38.347-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:50:38.349-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:38.348-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:50:38.360-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:50:38.374-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:38.374-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:50:38.388-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:50:38.388-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:50:38.387934+00:00, run_after=2023-09-24T02:50:38.387934+00:00
+[2023-09-23T22:50:38.409-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2023-09-23T22:51:15.144-0400] {processor.py:157} INFO - Started process (PID=19847) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:51:15.147-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:51:15.148-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:15.147-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:51:15.155-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:51:15.175-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:15.175-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:51:15.194-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:15.194-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:51:15.193980+00:00, run_after=2023-09-24T02:51:15.193980+00:00
+[2023-09-23T22:51:15.217-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:51:52.334-0400] {processor.py:157} INFO - Started process (PID=20147) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:51:52.338-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:51:52.339-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:52.339-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:51:52.345-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:51:52.358-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:52.358-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:51:52.372-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:51:52.372-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:51:52.372470+00:00, run_after=2023-09-24T02:51:52.372470+00:00
+[2023-09-23T22:51:52.395-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.063 seconds
+[2023-09-23T22:52:28.870-0400] {processor.py:157} INFO - Started process (PID=20518) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:52:28.874-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:52:28.876-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:52:28.875-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:52:28.896-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:52:28.920-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:52:28.920-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:52:28.941-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:52:28.941-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:52:28.941250+00:00, run_after=2023-09-24T02:52:28.941250+00:00
+[2023-09-23T22:52:28.967-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.101 seconds
+[2023-09-23T22:53:10.818-0400] {processor.py:157} INFO - Started process (PID=20770) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:53:10.823-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:53:10.825-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:10.824-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:53:10.842-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:53:10.864-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:10.863-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:53:10.877-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:10.877-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:53:10.877568+00:00, run_after=2023-09-24T02:53:10.877568+00:00
+[2023-09-23T22:53:10.902-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.091 seconds
+[2023-09-23T22:53:49.286-0400] {processor.py:157} INFO - Started process (PID=20972) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:53:49.291-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:53:49.293-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:49.292-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:53:49.304-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:53:49.322-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:49.322-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:53:49.336-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:53:49.335-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:53:49.335799+00:00, run_after=2023-09-24T02:53:49.335799+00:00
+[2023-09-23T22:53:49.358-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T22:54:24.637-0400] {processor.py:157} INFO - Started process (PID=21218) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:54:24.641-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:54:24.641-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:54:24.641-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:54:24.648-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:54:24.665-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:54:24.665-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:54:24.690-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:54:24.690-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:54:24.690384+00:00, run_after=2023-09-24T02:54:24.690384+00:00
+[2023-09-23T22:54:24.717-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.084 seconds
+[2023-09-23T22:55:04.551-0400] {processor.py:157} INFO - Started process (PID=21412) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:55:04.555-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:55:04.556-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:04.556-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:55:04.563-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:55:04.577-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:04.577-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:55:04.593-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:04.593-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:55:04.593487+00:00, run_after=2023-09-24T02:55:04.593487+00:00
+[2023-09-23T22:55:04.614-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:55:42.498-0400] {processor.py:157} INFO - Started process (PID=21616) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:55:42.500-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:55:42.501-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:42.500-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:55:42.508-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:55:42.522-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:42.522-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:55:42.538-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:55:42.538-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:55:42.538269+00:00, run_after=2023-09-24T02:55:42.538269+00:00
+[2023-09-23T22:55:42.559-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.064 seconds
+[2023-09-23T22:56:20.838-0400] {processor.py:157} INFO - Started process (PID=21809) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:56:20.841-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:56:20.842-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:20.842-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:56:20.855-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:56:20.872-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:20.871-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:56:20.893-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:20.893-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:56:20.893228+00:00, run_after=2023-09-24T02:56:20.893228+00:00
+[2023-09-23T22:56:20.934-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.100 seconds
+[2023-09-23T22:56:58.585-0400] {processor.py:157} INFO - Started process (PID=22093) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:56:58.589-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:56:58.590-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:58.590-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:56:58.602-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:56:58.619-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:58.619-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:56:58.635-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:56:58.635-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:56:58.635190+00:00, run_after=2023-09-24T02:56:58.635190+00:00
+[2023-09-23T22:56:58.656-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds
+[2023-09-23T22:57:37.323-0400] {processor.py:157} INFO - Started process (PID=22321) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:57:37.327-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:57:37.329-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:57:37.328-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:57:37.335-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:57:37.348-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:57:37.348-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:57:37.362-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:57:37.362-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:57:37.361934+00:00, run_after=2023-09-24T02:57:37.361934+00:00
+[2023-09-23T22:57:37.383-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
+[2023-09-23T22:58:15.231-0400] {processor.py:157} INFO - Started process (PID=22515) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:58:15.235-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:58:15.236-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:15.235-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:58:15.246-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:58:15.267-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:15.267-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:58:15.282-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:15.282-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:58:15.282606+00:00, run_after=2023-09-24T02:58:15.282606+00:00
+[2023-09-23T22:58:15.306-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T22:58:52.407-0400] {processor.py:157} INFO - Started process (PID=22715) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:58:52.412-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:58:52.414-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:52.413-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:58:52.431-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:58:52.446-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:52.446-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:58:52.460-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:58:52.460-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:58:52.460532+00:00, run_after=2023-09-24T02:58:52.460532+00:00
+[2023-09-23T22:58:52.481-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T22:59:28.771-0400] {processor.py:157} INFO - Started process (PID=22960) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:59:28.774-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T22:59:28.775-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:28.775-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:59:28.781-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T22:59:28.793-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:28.793-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T22:59:28.807-0400] {logging_mixin.py:151} INFO - [2023-09-23T22:59:28.807-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T02:59:28.807412+00:00, run_after=2023-09-24T02:59:28.807412+00:00
+[2023-09-23T22:59:28.829-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.061 seconds
+[2023-09-23T23:00:09.490-0400] {processor.py:157} INFO - Started process (PID=23156) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:00:09.494-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:00:09.495-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:09.495-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:00:09.506-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:00:09.524-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:09.524-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:00:09.538-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:09.538-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:00:09.538057+00:00, run_after=2023-09-24T03:00:09.538057+00:00
+[2023-09-23T23:00:09.559-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.074 seconds
+[2023-09-23T23:00:50.624-0400] {processor.py:157} INFO - Started process (PID=23467) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:00:50.626-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:00:50.627-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:50.626-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:00:50.635-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:00:50.653-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:50.652-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:00:50.668-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:00:50.667-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:00:50.667784+00:00, run_after=2023-09-24T03:00:50.667784+00:00
+[2023-09-23T23:00:50.692-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2023-09-23T23:01:29.520-0400] {processor.py:157} INFO - Started process (PID=23735) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:01:29.524-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:01:29.525-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:01:29.525-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:01:29.533-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:01:29.548-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:01:29.548-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:01:29.565-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:01:29.565-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:01:29.565367+00:00, run_after=2023-09-24T03:01:29.565367+00:00
+[2023-09-23T23:01:29.588-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.070 seconds
+[2023-09-23T23:02:06.334-0400] {processor.py:157} INFO - Started process (PID=23874) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:02:06.337-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:02:06.338-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:06.338-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:02:06.348-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:02:06.365-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:06.365-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:02:06.380-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:06.379-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:02:06.379834+00:00, run_after=2023-09-24T03:02:06.379834+00:00
+[2023-09-23T23:02:06.402-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.072 seconds
+[2023-09-23T23:02:44.818-0400] {processor.py:157} INFO - Started process (PID=24080) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:02:44.822-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:02:44.822-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:44.822-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:02:44.828-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:02:44.846-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:44.846-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:02:44.866-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:02:44.865-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:02:44.865110+00:00, run_after=2023-09-24T03:02:44.865110+00:00
+[2023-09-23T23:02:44.893-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.080 seconds
+[2023-09-23T23:03:23.133-0400] {processor.py:157} INFO - Started process (PID=24244) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:03:23.136-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:03:23.137-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:23.137-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:03:23.144-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:03:23.159-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:23.159-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:03:23.176-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:03:23.176-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:03:23.175983+00:00, run_after=2023-09-24T03:03:23.175983+00:00
+[2023-09-23T23:03:23.203-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.073 seconds
+[2023-09-23T23:04:01.585-0400] {processor.py:157} INFO - Started process (PID=24426) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:04:01.588-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:04:01.589-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:01.589-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:04:01.597-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:04:01.612-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:01.612-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:04:01.629-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:01.629-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:04:01.629122+00:00, run_after=2023-09-24T03:04:01.629122+00:00
+[2023-09-23T23:04:01.653-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.071 seconds
+[2023-09-23T23:04:39.228-0400] {processor.py:157} INFO - Started process (PID=24625) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:04:39.232-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:04:39.233-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:39.233-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:04:39.246-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:04:39.261-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:39.261-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:04:39.283-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:04:39.283-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:04:39.282917+00:00, run_after=2023-09-24T03:04:39.282917+00:00
+[2023-09-23T23:04:39.305-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.082 seconds
+[2023-09-23T23:05:32.603-0400] {processor.py:157} INFO - Started process (PID=25318) to work on /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:05:32.605-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-09-23T23:05:32.606-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:05:32.605-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:05:32.613-0400] {processor.py:839} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-09-23T23:05:32.627-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:05:32.627-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-23T23:05:32.644-0400] {logging_mixin.py:151} INFO - [2023-09-23T23:05:32.644-0400] {dag.py:3696} INFO - Setting next_dagrun for example_skip_dag to 2023-09-23T03:05:32.644134+00:00, run_after=2023-09-24T03:05:32.644134+00:00
+[2023-09-23T23:05:32.665-0400] {processor.py:179} INFO - Processing /home/beau/airflow/py_env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.066 seconds
