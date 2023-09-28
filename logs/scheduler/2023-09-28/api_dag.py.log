@@ -293,3 +293,346 @@ airflow.exceptions.AirflowException: `python_callable` param must be callable
 [2023-09-27T22:53:38.401-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:53:38.401-0400] {dag.py:2915} INFO - Sync 1 DAGs
 [2023-09-27T22:53:38.420-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:53:38.420-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
 [2023-09-27T22:53:38.443-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.078 seconds
+[2023-09-27T22:54:14.392-0400] {processor.py:157} INFO - Started process (PID=18788) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:54:14.397-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:54:14.398-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:54:14.397-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:54:14.411-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:54:14.426-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:54:14.426-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:54:14.442-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:54:14.442-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:54:14.465-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.081 seconds
+[2023-09-27T22:54:50.726-0400] {processor.py:157} INFO - Started process (PID=19231) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:54:50.730-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:54:50.731-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:54:50.731-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:54:50.748-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:54:50.769-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:54:50.768-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:54:50.786-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:54:50.786-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:54:50.817-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.099 seconds
+[2023-09-27T22:55:28.034-0400] {processor.py:157} INFO - Started process (PID=19496) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:55:28.036-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:55:28.038-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:55:28.037-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:55:28.050-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:55:28.069-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:55:28.068-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:55:28.087-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:55:28.087-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:55:28.110-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.080 seconds
+[2023-09-27T22:56:08.065-0400] {processor.py:157} INFO - Started process (PID=19844) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:56:08.073-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:56:08.076-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:56:08.075-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:56:08.104-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:56:08.123-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:56:08.122-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:56:08.140-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:56:08.140-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:56:08.165-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.110 seconds
+[2023-09-27T22:56:44.879-0400] {processor.py:157} INFO - Started process (PID=20211) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:56:44.883-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:56:44.884-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:56:44.884-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:56:44.892-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:56:44.925-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:56:44.925-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:56:44.941-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:56:44.941-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:56:44.966-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.089 seconds
+[2023-09-27T22:57:15.349-0400] {processor.py:157} INFO - Started process (PID=20516) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:57:15.351-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:57:15.352-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:57:15.352-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:57:15.370-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:57:15.384-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:57:15.383-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:57:15.402-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:57:15.402-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:57:15.429-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.086 seconds
+[2023-09-27T22:57:49.372-0400] {processor.py:157} INFO - Started process (PID=20859) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:57:49.375-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:57:49.376-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:57:49.376-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:57:49.387-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:57:49.403-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:57:49.403-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:57:49.423-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:57:49.423-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:57:49.449-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.084 seconds
+[2023-09-27T22:58:22.594-0400] {processor.py:157} INFO - Started process (PID=21197) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:58:22.596-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:58:22.597-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:58:22.597-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:58:22.613-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:58:22.636-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:58:22.636-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:58:22.661-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:58:22.660-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:58:22.694-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.104 seconds
+[2023-09-27T22:59:00.708-0400] {processor.py:157} INFO - Started process (PID=21546) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:59:00.711-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:59:00.712-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:59:00.712-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:59:00.721-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:59:00.736-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:59:00.735-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:59:00.754-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:59:00.753-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:59:00.776-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.071 seconds
+[2023-09-27T22:59:35.931-0400] {processor.py:157} INFO - Started process (PID=21741) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:59:35.933-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T22:59:35.935-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:59:35.934-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:59:35.955-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T22:59:35.970-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:59:35.970-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T22:59:35.987-0400] {logging_mixin.py:151} INFO - [2023-09-27T22:59:35.987-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T22:59:36.012-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.090 seconds
+[2023-09-27T23:00:13.548-0400] {processor.py:157} INFO - Started process (PID=21928) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:00:13.552-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:00:13.553-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:00:13.553-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:00:13.566-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:00:13.586-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:00:13.585-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:00:13.605-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:00:13.605-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:00:13.632-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.089 seconds
+[2023-09-27T23:00:49.126-0400] {processor.py:157} INFO - Started process (PID=22115) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:00:49.130-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:00:49.132-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:00:49.131-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:00:49.143-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:00:49.159-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:00:49.158-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:00:49.181-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:00:49.180-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:00:49.206-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.084 seconds
+[2023-09-27T23:01:23.200-0400] {processor.py:157} INFO - Started process (PID=22233) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:01:23.203-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:01:23.205-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:01:23.204-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:01:23.214-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:01:23.230-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:01:23.229-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:01:23.249-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:01:23.248-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:01:23.272-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.076 seconds
+[2023-09-27T23:01:58.724-0400] {processor.py:157} INFO - Started process (PID=22413) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:01:58.728-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:01:58.730-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:01:58.729-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:01:58.743-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:01:58.764-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:01:58.763-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:01:58.784-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:01:58.784-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:01:58.814-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.099 seconds
+[2023-09-27T23:02:35.397-0400] {processor.py:157} INFO - Started process (PID=22545) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:02:35.401-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:02:35.402-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:02:35.402-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:02:35.410-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:02:35.423-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:02:35.423-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:02:35.440-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:02:35.439-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:02:35.465-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.071 seconds
+[2023-09-27T23:03:07.021-0400] {processor.py:157} INFO - Started process (PID=22779) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:03:07.023-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:03:07.025-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:03:07.024-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:03:07.043-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:03:07.064-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:03:07.063-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:03:07.083-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:03:07.083-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:03:07.109-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.093 seconds
+[2023-09-27T23:03:39.760-0400] {processor.py:157} INFO - Started process (PID=22955) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:03:39.765-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:03:39.766-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:03:39.766-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:03:39.777-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:03:39.792-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:03:39.792-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:03:39.810-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:03:39.810-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:03:39.834-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.078 seconds
+[2023-09-27T23:04:15.475-0400] {processor.py:157} INFO - Started process (PID=23325) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:04:15.478-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:04:15.479-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:04:15.479-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:04:15.487-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:04:15.500-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:04:15.500-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:04:15.516-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:04:15.515-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:04:15.538-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.066 seconds
+[2023-09-27T23:04:51.777-0400] {processor.py:157} INFO - Started process (PID=23513) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:04:51.782-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:04:51.783-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:04:51.783-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:04:51.795-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:04:51.813-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:04:51.812-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:04:51.837-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:04:51.837-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:04:51.868-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.097 seconds
+[2023-09-27T23:05:27.166-0400] {processor.py:157} INFO - Started process (PID=23633) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:05:27.170-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:05:27.171-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:05:27.171-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:05:27.184-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:05:27.206-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:05:27.206-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:05:27.238-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:05:27.238-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:05:27.273-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.113 seconds
+[2023-09-27T23:06:05.226-0400] {processor.py:157} INFO - Started process (PID=23820) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:06:05.230-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:06:05.230-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:06:05.230-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:06:05.245-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:06:05.270-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:06:05.270-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:06:05.298-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:06:05.297-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:06:05.341-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.119 seconds
+[2023-09-27T23:06:46.498-0400] {processor.py:157} INFO - Started process (PID=23961) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:06:46.502-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:06:46.504-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:06:46.503-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:06:46.516-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:06:46.539-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:06:46.538-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:06:46.565-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:06:46.565-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:06:46.599-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.110 seconds
+[2023-09-27T23:07:26.271-0400] {processor.py:157} INFO - Started process (PID=24156) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:07:26.275-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:07:26.276-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:07:26.276-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:07:26.285-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:07:26.302-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:07:26.301-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:07:26.324-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:07:26.324-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:07:26.350-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.083 seconds
+[2023-09-27T23:08:08.529-0400] {processor.py:157} INFO - Started process (PID=24419) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:08:08.533-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:08:08.534-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:08:08.534-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:08:08.548-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:08:08.563-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:08:08.563-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:08:08.585-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:08:08.585-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:08:08.616-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.092 seconds
+[2023-09-27T23:08:49.928-0400] {processor.py:157} INFO - Started process (PID=24669) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:08:49.932-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:08:49.933-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:08:49.932-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:08:49.946-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:08:49.961-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:08:49.961-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:08:49.980-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:08:49.980-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:08:50.002-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.078 seconds
+[2023-09-27T23:09:26.803-0400] {processor.py:157} INFO - Started process (PID=24797) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:09:26.807-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:09:26.808-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:09:26.807-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:09:26.822-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:09:26.837-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:09:26.837-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:09:26.853-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:09:26.853-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:09:26.877-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.079 seconds
+[2023-09-27T23:10:03.871-0400] {processor.py:157} INFO - Started process (PID=24983) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:10:03.872-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:10:03.874-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:10:03.873-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:10:03.888-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:10:03.905-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:10:03.905-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:10:03.921-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:10:03.921-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:10:03.944-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.078 seconds
+[2023-09-27T23:10:44.016-0400] {processor.py:157} INFO - Started process (PID=25118) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:10:44.020-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:10:44.021-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:10:44.021-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:10:44.032-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:10:44.049-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:10:44.048-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:10:44.065-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:10:44.064-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:10:44.086-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.074 seconds
+[2023-09-27T23:11:23.182-0400] {processor.py:157} INFO - Started process (PID=25336) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:11:23.187-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:11:23.188-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:11:23.188-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:11:23.202-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:11:23.217-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:11:23.217-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:11:23.233-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:11:23.233-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:11:23.256-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.078 seconds
+[2023-09-27T23:12:00.845-0400] {processor.py:157} INFO - Started process (PID=25523) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:12:00.849-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:12:00.850-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:12:00.850-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:12:00.859-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:12:00.872-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:12:00.871-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:12:00.888-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:12:00.888-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:12:00.911-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.071 seconds
+[2023-09-27T23:12:39.557-0400] {processor.py:157} INFO - Started process (PID=25657) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:12:39.561-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:12:39.562-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:12:39.561-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:12:39.570-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:12:39.584-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:12:39.583-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:12:39.601-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:12:39.601-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:12:39.627-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.073 seconds
+[2023-09-27T23:13:15.706-0400] {processor.py:157} INFO - Started process (PID=25906) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:13:15.708-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:13:15.709-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:13:15.709-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:13:15.724-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:13:15.741-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:13:15.741-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:13:15.759-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:13:15.759-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:13:15.784-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.085 seconds
+[2023-09-27T23:13:50.656-0400] {processor.py:157} INFO - Started process (PID=26086) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:13:50.660-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:13:50.665-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:13:50.664-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:13:50.675-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:13:50.694-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:13:50.694-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:13:50.713-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:13:50.713-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:13:50.737-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.086 seconds
+[2023-09-27T23:14:25.870-0400] {processor.py:157} INFO - Started process (PID=26205) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:14:25.874-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:14:25.875-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:14:25.875-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:14:25.885-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:14:25.899-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:14:25.899-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:14:25.920-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:14:25.920-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:14:25.942-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.077 seconds
+[2023-09-27T23:15:01.847-0400] {processor.py:157} INFO - Started process (PID=26394) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:15:01.852-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:15:01.853-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:15:01.853-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:15:01.867-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:15:01.881-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:15:01.880-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:15:01.898-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:15:01.898-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:15:01.927-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.086 seconds
+[2023-09-27T23:15:39.423-0400] {processor.py:157} INFO - Started process (PID=26520) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:15:39.426-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:15:39.428-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:15:39.427-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:15:39.441-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:15:39.457-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:15:39.457-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:15:39.473-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:15:39.473-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:15:39.495-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.076 seconds
+[2023-09-27T23:16:17.198-0400] {processor.py:157} INFO - Started process (PID=26714) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:16:17.203-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:16:17.205-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:16:17.204-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:16:17.219-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:16:17.237-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:16:17.236-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:16:17.257-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:16:17.256-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:16:17.287-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.096 seconds
+[2023-09-27T23:16:54.622-0400] {processor.py:157} INFO - Started process (PID=26924) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:16:54.626-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:16:54.627-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:16:54.627-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:16:54.639-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:16:54.659-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:16:54.659-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:16:54.678-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:16:54.678-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:16:54.701-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.083 seconds
+[2023-09-27T23:17:30.981-0400] {processor.py:157} INFO - Started process (PID=27053) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:17:30.985-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:17:30.986-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:17:30.985-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:17:30.998-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:17:31.017-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:17:31.016-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:17:31.040-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:17:31.040-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:17:31.098-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.121 seconds
+[2023-09-27T23:18:08.363-0400] {processor.py:157} INFO - Started process (PID=27303) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:18:08.366-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:18:08.368-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:18:08.367-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:18:08.386-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:18:08.399-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:18:08.399-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:18:08.416-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:18:08.416-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:18:08.438-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.082 seconds
+[2023-09-27T23:18:42.943-0400] {processor.py:157} INFO - Started process (PID=27546) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:18:42.948-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:18:42.949-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:18:42.949-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:18:42.963-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:18:42.976-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:18:42.976-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:18:42.993-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:18:42.993-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:18:43.016-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.078 seconds
+[2023-09-27T23:19:17.289-0400] {processor.py:157} INFO - Started process (PID=27911) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:19:17.292-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:19:17.294-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:19:17.293-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:19:17.304-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:19:17.330-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:19:17.330-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:19:17.354-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:19:17.354-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:19:17.384-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.101 seconds
+[2023-09-27T23:19:54.493-0400] {processor.py:157} INFO - Started process (PID=28295) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:19:54.495-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:19:54.496-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:19:54.496-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:19:54.509-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:19:54.521-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:19:54.521-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:19:54.537-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:19:54.537-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:19:54.559-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.072 seconds
+[2023-09-27T23:20:32.296-0400] {processor.py:157} INFO - Started process (PID=28660) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:20:32.300-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:20:32.302-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:20:32.301-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:20:32.314-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:20:32.329-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:20:32.329-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:20:32.345-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:20:32.345-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:20:32.371-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.079 seconds
+[2023-09-27T23:21:12.111-0400] {processor.py:157} INFO - Started process (PID=29038) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:21:12.115-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:21:12.116-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:21:12.116-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:21:12.129-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:21:12.149-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:21:12.149-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:21:12.177-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:21:12.177-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:21:12.206-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.102 seconds
+[2023-09-27T23:21:48.723-0400] {processor.py:157} INFO - Started process (PID=29353) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:21:48.726-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:21:48.728-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:21:48.727-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:21:48.737-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:21:48.752-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:21:48.752-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:21:48.771-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:21:48.771-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:21:48.796-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.076 seconds
+[2023-09-27T23:22:28.591-0400] {processor.py:157} INFO - Started process (PID=29523) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:22:28.596-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:22:28.597-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:28.597-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:22:28.614-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:22:28.627-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:28.626-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:22:28.643-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:28.643-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:22:28.665-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.080 seconds
+[2023-09-27T23:23:08.076-0400] {processor.py:157} INFO - Started process (PID=29913) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:23:08.081-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:23:08.083-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:08.082-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:23:08.098-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:23:08.111-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:08.110-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:23:08.128-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:08.127-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:23:08.152-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.082 seconds
+[2023-09-27T23:23:46.430-0400] {processor.py:157} INFO - Started process (PID=30210) to work on /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:23:46.434-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/api_dag.py for tasks to queue
+[2023-09-27T23:23:46.436-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:46.435-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:23:46.448-0400] {processor.py:839} INFO - DAG(s) dict_keys(['api_dag']) retrieved from /home/beau/airflow/dags/api_dag.py
+[2023-09-27T23:23:46.465-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:46.465-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:23:46.483-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:46.483-0400] {dag.py:3696} INFO - Setting next_dagrun for api_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:23:46.506-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/api_dag.py took 0.080 seconds

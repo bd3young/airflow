@@ -1,0 +1,19 @@
+[2023-09-27T23:22:46.083-0400] {processor.py:157} INFO - Started process (PID=29583) to work on /home/beau/airflow/dags/weather_dag.py
+[2023-09-27T23:22:46.083-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/weather_dag.py for tasks to queue
+[2023-09-27T23:22:46.084-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.084-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/weather_dag.py
+[2023-09-27T23:22:46.093-0400] {processor.py:839} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /home/beau/airflow/dags/weather_dag.py
+[2023-09-27T23:22:46.209-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.209-0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-09-27T23:22:46.226-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.225-0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-09-27T23:22:46.253-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.252-0400] {manager.py:499} INFO - Created Permission View: %s
+[2023-09-27T23:22:46.254-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.253-0400] {security.py:708} INFO - Not syncing DAG-level permissions for DAG 'DAG:weather_dag' as access control is unset.
+[2023-09-27T23:22:46.255-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.254-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:22:46.272-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.272-0400] {dag.py:2937} INFO - Creating ORM DAG for weather_dag
+[2023-09-27T23:22:46.284-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:22:46.284-0400] {dag.py:3696} INFO - Setting next_dagrun for weather_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:22:46.316-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/weather_dag.py took 0.236 seconds
+[2023-09-27T23:23:27.376-0400] {processor.py:157} INFO - Started process (PID=30073) to work on /home/beau/airflow/dags/weather_dag.py
+[2023-09-27T23:23:27.380-0400] {processor.py:829} INFO - Processing file /home/beau/airflow/dags/weather_dag.py for tasks to queue
+[2023-09-27T23:23:27.381-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:27.381-0400] {dagbag.py:539} INFO - Filling up the DagBag from /home/beau/airflow/dags/weather_dag.py
+[2023-09-27T23:23:27.390-0400] {processor.py:839} INFO - DAG(s) dict_keys(['weather_dag']) retrieved from /home/beau/airflow/dags/weather_dag.py
+[2023-09-27T23:23:27.406-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:27.406-0400] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-09-27T23:23:27.426-0400] {logging_mixin.py:151} INFO - [2023-09-27T23:23:27.425-0400] {dag.py:3696} INFO - Setting next_dagrun for weather_dag to 2023-09-27T00:00:00+00:00, run_after=2023-09-28T00:00:00+00:00
+[2023-09-27T23:23:27.459-0400] {processor.py:179} INFO - Processing /home/beau/airflow/dags/weather_dag.py took 0.086 seconds
